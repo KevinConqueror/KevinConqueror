@@ -5,6 +5,4 @@
 - 📫 How to reach me ...
 
 
-![KevinConqueror's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinconqueror&show_icons=true&theme=algolia)
-
-![Ice-W0lfTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinconqueror&theme=algolia&layout=compact)
+[![KevinConqueror's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinconqueror)](https://github.com/anuraghazra/github-readme-stats)
